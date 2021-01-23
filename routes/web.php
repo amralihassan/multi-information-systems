@@ -12,7 +12,15 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::redirect('/','/home');
+Route::get('/home', 'HomeController@home')->name('home');
+Route::get('/solutions', 'HomeController@solutions')->name('solutions');
+Route::get('/projects', 'HomeController@projects')->name('projects');
+Route::get('/contact', 'HomeController@contact')->name('contact');
 
-Route::get('/', function () {
-    return view('welcome');
+
+
+
+Route::group(['prefix' => 'admin'], function () {
+    Voyager::routes();
 });
