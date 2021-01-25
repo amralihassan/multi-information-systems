@@ -14,6 +14,9 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+        <!-- AOS Library -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
     <!-- Site Icons -->
     <link rel="shortcut icon" href="{{asset('site/images/favicon.ico')}}" type="image/x-icon" />
     <link rel="apple-touch-icon" href="{{asset('site/images/apple-touch-icon.png')}}">

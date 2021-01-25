@@ -1878,6 +1878,21 @@ select.mobile-device {
     background: url(site/images/bg.png) no-repeat center center #fff;
 }
 
+/* Servcice page */
+
+#service .widget-title{
+    margin-top: 50px;
+}
+
+#service .widget-title h3 {
+    font-size: 5rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+#service .widget a {
+    margin: 30px 0 ;
+}
 
 /*------------------------------------------------------------------
     FOOTER

@@ -17,6 +17,7 @@ Route::get('/home', 'HomeController@home')->name('home');
 Route::get('/solutions', 'HomeController@solutions')->name('solutions');
 Route::get('/projects', 'HomeController@projects')->name('projects');
 Route::get('/contact', 'HomeController@contact')->name('contact');
+Route::get('/service', 'HomeController@service')->name('service');
 
 
 
