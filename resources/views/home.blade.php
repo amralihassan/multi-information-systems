@@ -108,27 +108,24 @@
         <div class="container">
             <div class="section-title row text-center">
                 <div class="col-md-8 col-md-offset-2">
-                    <h3 data-aos='zoom-in-down' data-aos-duration='1500' >About</h3>
-                    <p data-aos='zoom-in-up' data-aos-duration='1500' data-aos-delay='1600' class="lead" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus animi assumenda eius! Quo delectus eveniet numquam ad reiciendis error laudantium quos omnis aperiam quam aspernatur vitae vel, debitis rem fuga atque sit harum culpa voluptates eos itaque veniam odit dicta. Reiciendis illum nulla veniam maxime accusamus quaerat eligendi totam facilis excepturi, nostrum asperiores. Sunt, dolore dolor ex modi odit architecto!</p>
+                    <h3 data-aos='zoom-in' data-aos-duration='1500'  data-aos-once="true">About</h3>
+                    <p data-aos='zoom-in-up' data-aos-duration='1500' data-aos-delay='1600' class="lead"  data-aos-once="true">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus animi assumenda eius! Quo delectus eveniet numquam ad reiciendis error laudantium quos omnis aperiam quam aspernatur vitae vel, debitis rem fuga atque sit harum culpa voluptates eos itaque veniam odit dicta. Reiciendis illum nulla veniam maxime accusamus quaerat eligendi totam facilis excepturi, nostrum asperiores. Sunt, dolore dolor ex modi odit architecto!</p>
                 </div>
             </div><!-- end title -->         
-            <hr class="hr3">
 
              <div class="section-title row text-center">
                 <div class="col-md-8 col-md-offset-2">
-                    <h3 data-aos='zoom-in-down' data-aos-duration='1500'  data-aos-delay='3200'  >Mission</h3>
-                    <p data-aos='zoom-in-up' data-aos-duration='1500' data-aos-delay='4700' class="lead" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus animi assumenda eius! Quo delectus eveniet numquam ad reiciendis error laudantium quos omnis aperiam quam aspernatur vitae vel, debitis rem fuga atque sit harum culpa voluptates eos itaque veniam odit dicta. Reiciendis illum nulla veniam maxime accusamus quaerat eligendi totam facilis excepturi, nostrum asperiores. Sunt, dolore dolor ex modi odit architecto!</p>
+                    <h3 data-aos='zoom-in' data-aos-duration='1500'  data-aos-delay='3200'   data-aos-once="true">Mission</h3>
+                    <p data-aos='zoom-in-up' data-aos-duration='1500' data-aos-delay='4700' data-aos-once="true" class="lead" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus animi assumenda eius! Quo delectus eveniet numquam ad reiciendis error laudantium quos omnis aperiam quam aspernatur vitae vel, debitis rem fuga atque sit harum culpa voluptates eos itaque veniam odit dicta. Reiciendis illum nulla veniam maxime accusamus quaerat eligendi totam facilis excepturi, nostrum asperiores. Sunt, dolore dolor ex modi odit architecto!</p>
                 </div>
             </div><!-- end title -->         
-            <hr class="hr3">
 
              <div class="section-title row text-center">
                 <div class="col-md-8 col-md-offset-2">
-                    <h3 data-aos='zoom-in-down' data-aos-duration='1500'  data-aos-delay='6300' >Vision</h3>
-                    <p data-aos='zoom-in-up' data-aos-duration='1500' data-aos-delay='7900' class="lead" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus animi assumenda eius! Quo delectus eveniet numquam ad reiciendis error laudantium quos omnis aperiam quam aspernatur vitae vel, debitis rem fuga atque sit harum culpa voluptates eos itaque veniam odit dicta. Reiciendis illum nulla veniam maxime accusamus quaerat eligendi totam facilis excepturi, nostrum asperiores. Sunt, dolore dolor ex modi odit architecto!</p>
+                    <h3 data-aos='zoom-in' data-aos-duration='1500'  data-aos-delay='6300'  data-aos-once="true">Vision</h3>
+                    <p data-aos='zoom-in-up' data-aos-duration='1500' data-aos-delay='7900' class="lead"  data-aos-once="true">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus animi assumenda eius! Quo delectus eveniet numquam ad reiciendis error laudantium quos omnis aperiam quam aspernatur vitae vel, debitis rem fuga atque sit harum culpa voluptates eos itaque veniam odit dicta. Reiciendis illum nulla veniam maxime accusamus quaerat eligendi totam facilis excepturi, nostrum asperiores. Sunt, dolore dolor ex modi odit architecto!</p>
                 </div>
             </div><!-- end title -->         
-            <hr class="hr3">
         </div><!-- end container -->
     </div><!-- end section -->
 
